@@ -5,6 +5,11 @@ let education = "Bachelor of Science in Business Management (Graduation: Decembe
 
 let experience = "Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)";
 
+// Contact Information
+let address = "18126 E Falcon Pass, Owasso, OK  74055";
+let email = "gabewilk@oru.edu";
+let phone = "918-706-6131";
+
 //Update webpage with bio
 document.getElementById("name").textContent = name;
 document.getElementById("address").textContent = "Address: " + address;
