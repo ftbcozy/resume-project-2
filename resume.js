@@ -2,7 +2,7 @@ let name = "Gabriel Wilkinson";
 
 let education = "Bachelor of Science in Business Management (Graduation: December 2025)";
 
-let experience = `Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)'
+let experience = "Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)";
 
 document.getElementById("name").textContent = name;
 document.getElementById("education").textContent = "Education: " + education;
