@@ -7,6 +7,9 @@ let experience = "Assembly Technician â€“ Efdyn Inc., Tulsa, OK (December 2020â€
 
 //Update webpage with bio
 document.getElementById("name").textContent = name;
+document.getElementById("address").textContent = "Address: " + address;
+document.getElementById("email").textContent = "Email: " + email;
+document.getElementById("phone").textContent = "Phone: " + phone;
 document.getElementById("education").textContent = "Education: " + education;
 document.getElementById("experience").textContent = "Experience: " + experience;
 
