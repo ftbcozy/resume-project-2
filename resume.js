@@ -4,7 +4,6 @@ let education = "Bachelor of Science in Business Management (Graduation: Decembe
 
 let experience = `Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)
 
-// Updating the HTML content
 document.getElementById("name").textContent = name;
 document.getElementById("education").textContent = "Education: " + education;
 document.getElementById("experience").textContent = "Experience: " + experience;
