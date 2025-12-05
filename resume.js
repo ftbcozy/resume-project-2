@@ -4,9 +4,9 @@ let education = "Bachelor of Science in Business Management (Graduation: Decembe
 let experience = "Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)";
 
 // Contact info
-let address = "1234 Example St, Tulsa, OK 74100";
-let email = "gabrielwilkinson@example.com";
-let phone = "555-123-4567";
+let address = "18126 E Falcon Pass, Owasso, OK  74055";
+let email = "gabewilk@oru.edu";
+let phone = "918-706-6131";
 
 // Update page content with personal info
 document.getElementById("name").textContent = name;
