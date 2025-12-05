@@ -3,9 +3,6 @@ let name = "Gabriel Wilkinson";
 let education = "Bachelor of Science in Business Management (Graduation: December 2025)";
 
 let experience = `Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)
-• Operated manual and automatic machinery to prepare and assemble components.
-• Met multiple deadlines and tracked performance metrics for evaluation.
-• Learned and applied new technical skills, including running new machines and improving workflow efficiency.`;
 
 // Updating the HTML content
 document.getElementById("name").textContent = name;
