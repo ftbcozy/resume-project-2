@@ -1,9 +1,11 @@
+//Personal Bio
 let name = "Gabriel Wilkinson";
 
 let education = "Bachelor of Science in Business Management (Graduation: December 2025)";
 
 let experience = "Assembly Technician – Efdyn Inc., Tulsa, OK (December 2020–Present, Seasonal)";
 
+//Update webpage with bio
 document.getElementById("name").textContent = name;
 document.getElementById("education").textContent = "Education: " + education;
 document.getElementById("experience").textContent = "Experience: " + experience;
@@ -31,7 +33,7 @@ for (let i = 0; i < skills.length; i++) {
 
 document.getElementById("skills").appendChild(skillsList);
 
-// Fun Fact Button Function
+// Fun Fact Button
 function showFunFact() {
     alert("Fun Fact: I've visited the Parthenon in Greece!");
 }
